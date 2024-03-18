@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-Salut ! Je suis Lucas, étudiant en BTS Services Informatiques aux Organisations (SIO), passionné par le développement et les technologies de l'information. 🎓💻
+Salut ! Je suis Lucas, étudiant en BTS Services Informatiques aux Organisations (SIO), passionné par le développement et les technologies de l'informatique. 🎓💻
 
 ## À propos de moi
 
