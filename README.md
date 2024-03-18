@@ -19,4 +19,8 @@ En plus du développement informatique, j'ai également un intérêt marqué pou
 - 🎮 Les jeux-vidéos
 - 🎨 La conception d'interfaces utilisateur
 
+## Mes projets
+
+Vous pouvez retrouver mes différents projets scolaires ainsi que mes projets personnels sur mon profil. N'hésitez pas à jeter un coup d'œil et à explorer mes réalisations ! 😉🚀
+
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles ! 🚀
