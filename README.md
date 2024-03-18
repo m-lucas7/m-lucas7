@@ -1,16 +1,22 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub ! 👋
 
-<!--
-**m-lucas7/m-lucas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut ! Je suis Lucas, étudiant en BTS Services Informatiques aux Organisations (SIO), passionné par le développement et les technologies de l'information. 🎓💻
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En cours :
+
+📚 En tant qu'étudiant en BTS SIO, je travaille sur divers projets liés au développement logiciel et à la gestion de bases de données. J'apprécie particulièrement les défis que cela représente et je cherche toujours à approfondir mes connaissances dans ces domaines.
+
+Hors des cours :
+
+🌟 En dehors de mes études, je suis constamment en train d'explorer de nouvelles technologies et de travailler sur des projets personnels.
+
+## Mes intérêts
+
+En plus du développement informatique, j'ai également un intérêt marqué pour :
+
+- 🎮 Les jeux-vidéos
+- 🎨 La conception d'interfaces utilisateur
+
+N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles ! 🚀
